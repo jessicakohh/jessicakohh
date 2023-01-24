@@ -2,8 +2,7 @@
 <br/>
 
 ####  Skills 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white">  
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-494949?style=flat-square&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-494949?style=flat-square&logo=iOS&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-494949?style=flat-square&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/Figma-494949?style=flat-square&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-494949?style=flat-square&logo=Git&logoColor=white">
 <br/>
 
 ####  App (Click!)
