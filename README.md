@@ -11,4 +11,3 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jessicakohh&show_icons=true&title_color=494949&icon_color=494949">
